@@ -10,6 +10,6 @@
 
 <img width="769" height="562" alt="image" src="https://github.com/user-attachments/assets/1b49a43b-8f03-4205-9c8d-53535458df62" />
 
-Для получения информации о количестве ядер использовал команду 
+Для получения информации о количестве ядер использовал команду lscpu
 
 <img width="613" height="367" alt="image" src="https://github.com/user-attachments/assets/67f9942c-f7a6-4947-9035-e884afafbd4c" />
