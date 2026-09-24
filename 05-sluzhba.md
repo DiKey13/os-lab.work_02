@@ -8,6 +8,10 @@
 
 <img width="832" height="301" alt="image" src="https://github.com/user-attachments/assets/d9dab5e5-2e5c-46a0-9710-d9cdddcb7b22" />
 
-<img width="841" height="358" alt="image" src="https://github.com/user-attachments/assets/731cc001-e5b2-4bb7-8d56-04f7fd555d6b" />
 Мы убедились в том что введённые ранее команды работают и статус службы это подтверждает.
 
+<img width="469" height="203" alt="image" src="https://github.com/user-attachments/assets/1f1b8a8a-f71e-4dc8-b46f-fbca46c6ed85" />
+
+Пояснение type=oneshot как дословно можно понять служба сработает только один раз, то есть она запускается и завершается.
+А wanteby=multi-user.target где первая половина(является службой) привязывается к второй половине (цель) - это обеспечивает 
+автозапуск в обычном режиме загрузки.
